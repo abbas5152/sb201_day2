@@ -1,0 +1,6 @@
+Q1.Explain Layared Architecture in Business application
+A1.
+There is total three layers in business application
+1)Data Access layer
+2) Business logic Layer/Service Layer
+3) Presentation Layer/UI layer
